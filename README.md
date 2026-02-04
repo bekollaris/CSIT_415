@@ -6,3 +6,6 @@
 - Edited the README file with assignment details
 - Committed changes to the new branch
 - Added an image of my favorite animal
+
+## Favorite Animal
+![British Cat](Britishcat.jpg)
